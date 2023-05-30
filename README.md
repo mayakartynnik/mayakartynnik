@@ -43,7 +43,7 @@ I am a beginner QA engineer with a focus on functional testing. I also work as a
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱  Mobile Application Testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
