@@ -65,7 +65,7 @@ I am a beginner QA engineer with a focus on functional testing. I also work as a
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Working with code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -76,12 +76,4 @@ I am a beginner QA engineer with a focus on functional testing. I also work as a
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mayakartynnik)
