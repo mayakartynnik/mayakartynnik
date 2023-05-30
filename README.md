@@ -1,9 +1,4 @@
-<style>
-  body {
-    background-color: gray;
-  }
-</style>
-
+<div style="background-color: gray;">
 <h1 align="center"># Hello, my name is Maya! 👋</h1>
 
 ---
@@ -88,3 +83,4 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mayakartynnik" alt="Visitor Badge" />
 </p>
+</div>
