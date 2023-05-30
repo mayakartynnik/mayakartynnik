@@ -2,9 +2,9 @@
 
 ---
 
-### 👨‍💻 Обо мне:
+### 👨‍💻 About me:
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал на YouTube с аудиторией более 150.000 человек. Зв время преподавтаельсккой деятельности обучил более 4000 студентов на разных платформах.
+I am a beginner QA engineer with a focus on functional testing. I also work as a recruiter and I am currently undergoing an internship in the QA field. I have experience in functional testing, having completed courses that provided me with fundamental knowledge and skills in software testing. Currently, I am undergoing an internship where I actively apply my knowledge and skills in practice. This allows me to gain valuable experience and grow in the field of QA.
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
 
