@@ -6,7 +6,10 @@
 
 <p align="center">I am a beginner QA engineer with a focus on functional testing. I also work as a recruiter and I am currently undergoing an internship in the QA field. I have experience in functional testing, having completed courses that provided me with fundamental knowledge and skills in software testing. Currently, I am undergoing an internship where I actively apply my knowledge and skills in practice. This allows me to gain valuable experience and grow in the field of QA.</p>
 
-<p align="center">📫 How to contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kartynnikm@gmail.com)
+## 📫 How to Reach Me:
+
+- 📧 Email: kartynnikm@gmail.com
+
 
 ---
 
