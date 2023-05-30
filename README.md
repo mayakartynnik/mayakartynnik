@@ -1,3 +1,9 @@
+<style>
+  body {
+    background-color: gray;
+  }
+</style>
+
 <h1 align="center"># Hello, my name is Maya! 👋</h1>
 
 ---
