@@ -84,3 +84,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mayakartynnik" alt="Visitor Badge" />
 </p>
 </div>
+
+---
+# Testing Artefacts
+- [CheckList](https://github.com/mayakartynnik/checklist)
+- [TestCase](https://github.com/mayakartynnik/testcase)
+- [BugReports](https://github.com/mayakartynnik/BugReport)
+- [APItests](https://github.com/mayakartynnik/apitests)
+- [SQL](https://github.com/mayakartynnik/SQL)
+- [TestReport](https://github.com/mayakartynnik/TestReport)
