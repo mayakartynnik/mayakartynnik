@@ -16,8 +16,10 @@
 ---
 
 <h3 align="center">🤝 Social media:</h3>
-
-<div align="center" id="badges">
+ <div id="badges">
+    <a href="https://www.linkedin.com/in/mayakartynnik/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
   <a href="https://t.me/mayakartynnik" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
   </a>
