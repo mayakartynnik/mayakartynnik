@@ -11,6 +11,11 @@
   <h3>📫 How to Reach Me:</h3>
   <p>📧 Email: kartynnikm@gmail.com</p>
 </div>
+  
+  <h2 align="center">My CV</h2>
+
+<p align="center">You can view my CV by clicking <a href="https://drive.google.com/drive/my-drive">here</a>.</p>
+
 
 
 ---
