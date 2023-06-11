@@ -14,7 +14,7 @@
   
   <h2 align="center">My CV</h2>
 
-<p align="center">You can view my CV by clicking <a href="https://drive.google.com/drive/my-drive">here</a>.</p>
+<p align="center">You can view my CV by clicking <a href="https://docs.google.com/document/d/19qyKzmE2_uM8eyztztZawE_rwRsbwZRD/edit">here</a>.</p>
 
 
 
