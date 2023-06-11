@@ -16,14 +16,16 @@
 ---
 
 <h3 align="center">🤝 Social media:</h3>
-<div id="badges" style="display: flex; justify-content: center;">
-    <a href="https://www.linkedin.com/in/mayakartynnik/" target="_blank" style="margin: 0 10px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/mayakartynnik" target="_blank" style="margin: 0 10px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayakartynnik/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" alt="linkedin" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/mayakartynnik">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" width="40" height="40" />
+  </a>
+</p>
+
 
 
 
